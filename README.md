@@ -14,8 +14,10 @@ Skills:  JS / HTML / CSS / SQL / PHP / Figma
 [![Linkedin Badge](https://img.shields.io/badge/-NikhilDuttaroy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nikhil-duttaroy/)](https://www.linkedin.com/in/nikhil-duttaroy/)
 [![Website Badge](https://img.shields.io/badge/-Nikhil_Duttaroy-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://nikhil-duttaroy.netlify.app/)](https://nikhil-duttaroy.netlify.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Duttaroy)](https://github.com/Nikhil-Duttaroy/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Duttaroy&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Duttaroy&show_icons=true&theme=react)  
+
+
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikhil-Duttaroy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-Duttaroy)  
