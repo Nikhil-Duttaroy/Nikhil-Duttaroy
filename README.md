@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nikhil Duttaroy
 #### Engineering Student / Front End Developer
-I am a 3rd year Information Technology student and a Front End Developer based out of Mumbai, India.
+I am a 4th year Information Technology student and a Front End Developer based out of Mumbai, India.
 I am passionate about writing code, solving problems, Designing and Building Software's.
 
 
