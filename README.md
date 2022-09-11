@@ -12,7 +12,7 @@ Skills:  JS / HTML / CSS / SQL / PHP / Figma
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-nsdr2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsdr2000@gmail.com)](mailto:nsdr2000@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-NikhilDuttaroy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nikhil-duttaroy/)](https://www.linkedin.com/in/nikhil-duttaroy/)
-[![Website Badge](https://img.shields.io/badge/-Nikhil_Duttaroy-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://nikhil-duttaroy.netlify.app/)](https://nikhil-duttaroy.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Nikhil_Duttaroy-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://nikhil-duttaroy.netlify.app/)](https://nikhilduttaroy.netlify.app/)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Duttaroy&show_icons=true&theme=react)  
