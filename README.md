@@ -17,7 +17,3 @@ Skills:  JS / HTML / CSS / SQL / PHP / Figma
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Duttaroy&show_icons=true&theme=react)  
 
-
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikhil-Duttaroy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Profile views](https://gpvc.arturio.dev/Nikhil-Duttaroy)  
