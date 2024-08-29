@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Nikhil Duttaroy
-#### Engineering Student / Front End Developer
-I am a 4th year Information Technology student and a Front End Developer based out of Mumbai, India.
-I am passionate about writing code, solving problems, Designing and Building Software's.
+#### Full Stack Developer
+I am a Full Stack Developer based out of Mumbai, India.
+I am passionate about writing code, solving problems, Designing and Building Software.
 
 
 Skills:  JS / HTML / CSS / SQL / PHP / Figma 
