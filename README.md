@@ -15,5 +15,3 @@ Skills:  JS / HTML / CSS / SQL / PHP / Figma
 [![Website Badge](https://img.shields.io/badge/-Nikhil_Duttaroy-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://nikhil-duttaroy.netlify.app/)](https://nikhilduttaroy.netlify.app/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Duttaroy&show_icons=true&theme=react)  
-
