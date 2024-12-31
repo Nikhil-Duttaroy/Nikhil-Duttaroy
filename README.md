@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nikhil Duttaroy
 #### Full Stack Developer
-I am a Full Stack Developer based out of Mumbai, India.
+I am a Full Stack Developer based in Mumbai, India.
 I am passionate about writing code, solving problems, Designing and Building Software.
 
 
